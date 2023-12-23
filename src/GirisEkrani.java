@@ -5,6 +5,9 @@ public class GirisEkrani extends JDialog {
     private JPanel contentPane;
     private JButton buttonOK;
     private JButton buttonCancel;
+    private JButton personelBtn;
+    private JButton adminBtn;
+    private JButton cikisBtn;
 
     public GirisEkrani() {
         setContentPane(contentPane);
