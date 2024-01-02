@@ -324,9 +324,7 @@ public class CalisanEkrani extends javax.swing.JDialog {
         
     }//GEN-LAST:event_silActionPerformed
 
-    /**
-     * @param args the command line arguments
-     */
+
     
     public void calisanGoruntule() {
         
